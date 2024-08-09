@@ -1,7 +1,7 @@
 ## Hola! 👋
 
-Soy Santiago Quiroga Rivarossa y este es mi perfil de github de la Universidad de Mendoza
-Para los profesores, mi legajo es 63170...
+Soy Santiago Quiroga Rivarossa y este es mi perfil de github de la Universidad de Mendoza.<br />
+Para los profesores, mi legajo es 63170.<br />
 
 - 🔭 Actualmente estoy cursando ingeniería en informática en la UM.
 - 🌱 Estoy aprendiendo Python y C en este momento.
