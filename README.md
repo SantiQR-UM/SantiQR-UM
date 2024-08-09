@@ -1,6 +1,6 @@
 
 # Sobre mí:
-Soy Santiago Quiroga Rivarossa y este es mi perfil de github de la Universidad de Mendoza.<br /><br>Para los profesores, mi legajo es 63170.<br /><br>- 🔭 Actualmente estoy cursando ingeniería en informática en la UM.<br>- 🌱 Estoy aprendiendo Python y C en este momento.<br>- 📫 Pueden comunicarse conmigo en mi email de la universidad: sr.quiroga@alumno.um.edu.ar<br><br>
+Soy Santiago Quiroga Rivarossa y este es mi perfil de github de la Universidad de Mendoza.<br /><br>Para los profesores, mi legajo es 63170.<br /><br>- 🔭  Actualmente estoy cursando ingeniería en informática en la UM.<br>- 🌱  Estoy aprendiendo Python y MySQL.<br>- 📫  Pueden comunicarse conmigo en mi email de la universidad: sr.quiroga@alumno.um.edu.ar<br><br>
 
 # 💻 Con que puedo trabajar:
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Anaconda](https://img.shields.io/badge/Anaconda-%2344A833.svg?style=for-the-badge&logo=anaconda&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
